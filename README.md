@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 
 ### Robot Competition
 - RoboCup SSL: [GreenTea SSL](https://github.com/greentea-ssl)
-
-prev
 - RoboCup Junior: Aquila (Rescue Maze, 2015~2019)
 - NHK RoboCon: [kikaiken](https://www.kikaiken.org/) (2021, 2022)
 
