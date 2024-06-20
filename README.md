@@ -26,12 +26,10 @@ Here are some ideas to get you started:
 
 
 ### Robot Competition
-- RoboCup Junior: Aquila (Rescue Maze, 2015~2019)
-- NHK RoboCon: [kikaiken](https://www.kikaiken.org/) (2021, 2022)
-- RoboCup SSL: [GreenTea SSL](https://github.com/greentea-ssl) (2020~)
+- RoboCup Junior Rescue Maze: Aquila (2015~2019, Team Leader)
+- NHK RoboCon: [kikaiken](https://www.kikaiken.org/) (2021 & 2022, Software Part Leader)
+- RoboCup SSL: [GreenTea SSL](https://greentea-ssl.com/) (2020~, AI)
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emile-aquila&show_icons=true&locale=en" alt="emile-aquila" /></p>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emile-aquila&show_icons=true&locale=en" alt="emile-aquila" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emile-aquila&" alt="emile-aquila" /></p>
-
+![](https://skillicons.dev/icons?i=c,cpp,rust,matlab,python,pytorch,cmake,ros,github,gitlab)
