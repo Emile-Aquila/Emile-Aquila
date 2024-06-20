@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emile-aquila&show_icons=true&locale=en" alt="emile-aquila" /></p>
 
-![](https://skillicons.dev/icons?i=c,cpp,rust,matlab,python,pytorch,cmake,ros,github,gitlab)
+![](https://skillicons.dev/icons?i=c,cpp,rust,matlab,python,pytorch,cmake,ros)
