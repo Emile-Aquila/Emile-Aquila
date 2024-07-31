@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 ### Working Experience
 - Robalif (2020~2023), Part-time Software Engineer
-- Tokyo Robotics (2022~2023), Intern (Robotics Engineer)
-- OMRON SINIC X (2023~present), Research Intern
+- Tokyo Robotics (2022/9~2023/9), Intern (Robotics Engineer)
+- OMRON SINIC X (2023/9~2024/7), Research Intern
 
 
 ### Robot Competition
