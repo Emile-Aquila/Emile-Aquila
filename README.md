@@ -10,7 +10,7 @@
 - Tokyo Robotics (2022/9~2023/9), Intern (Robotics Engineer)
 - OMRON SINIC X (2023/9~2024/7), Research Intern
 - NTT R&D (2024/8), Research Intern
-
+- Sony Group (2024/10~), Research Intern
 
 ### Robot Competition
 - RoboCup Junior Rescue Maze: Aquila (2015~2019, Team Leader)
